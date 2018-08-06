@@ -1103,3 +1103,704 @@ Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1523798745401	geckodriver	INFO	geckodriver 0.20.0
+1523798745415	geckodriver	INFO	Listening on 127.0.0.1:61063
+1523798748619	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.9U4iVfy1zQxi"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1523798749794	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1523798750884	Marionette	INFO	Listening on port 61071
+1523798751748	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 15800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3[Child 13648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13648, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533442924973	geckodriver	INFO	geckodriver 0.20.0
+1533442925005	geckodriver	INFO	Listening on 127.0.0.1:53589
+1533442928140	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.pujQejt5gV5b"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533442932302	Marionette	INFO	Listening on port 53597
+1533442932397	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3632, Chrome_Chi[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1672, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533444077020	geckodriver	INFO	geckodriver 0.20.0
+1533444077040	geckodriver	INFO	Listening on 127.0.0.1:53930
+1533444080063	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.jH4K1vxwVaAq"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533444081778	Marionette	INFO	Listening on port 53941
+1533444082082	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 7608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2212, Chrome_Chi[Child 4384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533444722411	geckodriver	INFO	geckodriver 0.20.0
+1533444722431	geckodriver	INFO	Listening on 127.0.0.1:54267
+1533444725464	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.k3gimu30YQa4"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533444727280	Marionette	INFO	Listening on port 54275
+1533444727480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://kyfw.12306.cn/otn/resources/merged/common_js.js?scriptVersion=1.9095, line 14: NS_ERROR_NOT_INITIALIZED: 
+[Parent 12108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 15192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2172, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533444773886	geckodriver	INFO	geckodriver 0.20.0
+1533444773904	geckodriver	INFO	Listening on 127.0.0.1:54316
+1533444776938	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.1mpKkmINLude"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533444778703	Marionette	INFO	Listening on port 54324
+1533444778956	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2456, Chrome_ChildT[Child 3780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3780, Chrome_ChildThread] WARNING: pipe error: [Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5488, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 15264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 4900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4900, Chrome_ChildThr[Parent 15264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5280, [
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533444964002	geckodriver	INFO	geckodriver 0.20.0
+1533444964026	geckodriver	INFO	Listening on 127.0.0.1:53086
+1533444967045	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.dnLn7QHgeByW"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533444968805	Marionette	INFO	Listening on port 53130
+1533444969067	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 5936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common[Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346/
+ipc_channel_win.cc, line 346[Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: fil
+[Child 9224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 5936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12[GPU 6288, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533445036313	geckodriver	INFO	geckodriver 0.20.0
+1533445036331	geckodriver	INFO	Listening on 127.0.0.1:53444
+1533445039375	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.yLEeNjDv64Wa"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533445040955	Marionette	INFO	Listening on port 53452
+1533445041396	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 11368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 14872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14872, Chrome_ChildThread] WARNING: p[Parent 11368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4548, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+NING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1708, Chrome_ChildThread] WARNING: pipe[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[GPU 11832, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533447264504	geckodriver	INFO	geckodriver 0.20.0
+1533447264534	geckodriver	INFO	Listening on 127.0.0.1:54073
+1533447267566	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.Pio2Eo077PB7"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533447269370	Marionette	INFO	Listening on port 54082
+1533447269657	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+[Parent 11372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15[Child 9264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9264, Chrome_Chil
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+dThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15072, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533447330122	geckodriver	INFO	geckodriver 0.20.0
+1533447330140	geckodriver	INFO	Listening on 127.0.0.1:54175
+1533447333185	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.FSSy2Ome2wzs"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533447334897	Marionette	INFO	Listening on port 54183
+1533447335204	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 11820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1533447553545	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.OPQzttegwyvW"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533447555154	Marionette	INFO	Listening on port 54463
+1533447555566	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 2212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1533447595558	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.AIYKhEDxeeGq"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533447597099	Marionette	INFO	Listening on port 54554
+1533447597574	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Child 4348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4[Parent 12012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7844, Chrome_ChildThr[Parent 12012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11620,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7472, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533447647365	geckodriver	INFO	geckodriver 0.20.0
+1533447647383	geckodriver	INFO	Listening on 127.0.0.1:54688
+1533447650419	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.S6ZJRnQ4YeAt"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533447651994	Marionette	INFO	Listening on port 54696
+1533447652440	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6352, Chrome_Chil[Parent 9296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14552, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533447744256	geckodriver	INFO	geckodriver 0.20.0
+1533447744276	geckodriver	INFO	Listening on 127.0.0.1:54837
+1533447747310	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.kJqTe4C5o0z2"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533447748853	Marionette	INFO	Listening on port 54845
+1533447749333	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232, Chrome_ChildThread[Child 616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 616, Chrome_ChildThread] WARNING: pipe e[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10508, Chrome[GPU 13812, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533448486454	geckodriver	INFO	geckodriver 0.20.0
+1533448486474	geckodriver	INFO	Listening on 127.0.0.1:55225
+1533448489507	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.2w31JgRgYdCY"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533448491071	Marionette	INFO	Listening on port 55234
+1533448491530	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+[Parent 7544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1768, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533448596813	Marionette	INFO	Listening on port 55627
+1533448597022	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086C088800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086C08C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5C8000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5CA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C03800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C05000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E0800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E3800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711F3800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711F8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873626800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873628000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873637000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873638800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742D8000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742D9800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B04800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B06000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B1A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E503800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020876109000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5CC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087611B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C0B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087623E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E5800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087687B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020871CD9800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E3CC000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087362B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E3D7000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742CC000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E3E2800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742DC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E623800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B07800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E62D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E54C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E62F000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5CF800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E950800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C12800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E63A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E965000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087361D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087EC2C000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087362E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E95F000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742CF000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087EE7F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contCorrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Child 7764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7764, Chrom[Child 13020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15112, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B1B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087EE8B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873639000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F1D1800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020876228000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F1DD000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087686F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F1CE800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087687C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F3BB800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E3CD800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F3B2000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E3D9000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F70D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E3E5000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040C8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040CA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F3C4000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E630000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804543000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080454B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804559000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080455A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040D9800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040DB000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080494B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080494C000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E952800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087E960800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087F3BE000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002087EC24800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804959000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080495A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804D3A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040CC000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080558C000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080558D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080559C800)::ForceLoseContext
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040C1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040C2000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040D7800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040D9800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080454D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080454E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080455C000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080455E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086C088800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086C090800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5CA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5CC000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C04800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C08800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E3000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E4800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711F8000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711FA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873627800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040C7000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020873633000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040DC000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742CF000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804550000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208742DB000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804560000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B02800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E520800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B0E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002086E5CE800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B1F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020870C0E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020875B1B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208711E7000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020876235800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020871CDA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020876872800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000208040CB800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002080576D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020804542800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020805779000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000[Parent 1148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 1148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 282: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 963: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x16002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Parent 1148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/
+WebGL(000002080573D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 52: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020878287000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 84: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, los[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[Child 1685
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+6, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 282: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 963: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160028,name=PBrowser::Msg_EnableDisableCommands) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160030,name=PBrowser::Msg_SetStatus) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x16002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x16002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ED: 
+[Child 13852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 963: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160028,name=PBrowser::Msg_EnableDisableCommands) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160030,name=PBrowser::Msg_SetStatus) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x16002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x16002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+msgtype=0x16002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+on/ipc_channel_win.cc, line 346
+[Chi[Parent 1188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17676, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rent 8804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1533478370234	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.Ja5pP7M4Hnut"
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\36010\AppData\Local\openvr\openvrpaths.vrpath
+1533478372050	Marionette	INFO	Listening on port 65214
+1533478372260	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 18872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533478435692	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19428, Chrome_ChildT[Child 9732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9732, Chrome_ChildTh[Parent 18872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

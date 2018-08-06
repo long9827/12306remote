@@ -30,10 +30,11 @@ def find(driver, passenger):
 		
 	"""输入出发地"""
 	fse = driver.find_element_by_id('fromStationText')
-	fse.clear()
-	fse.send_keys(passenger.fromStation)
+	js_set = 'document.getElementById("fromStationText").value="武汉"'
+	driver.execute_script(js_set)
 	times = 10
 	while times>0:
+		print(fse.get_attribute('value'))
 		times = times - 1
 		fse.send_keys(Keys.ARROW_DOWN)
 		if fse.get_attribute('value') == passenger.fromStation:
@@ -42,10 +43,10 @@ def find(driver, passenger):
 			
 	"""输入目的地"""
 	tse = driver.find_element_by_id('toStationText')
-	tse.clear()
-	tse.send_keys(passenger.toStation)
+	ActionChains(driver).click(tse).send_keys(passenger.toStation).perform()
 	times = 10
 	while times>0:
+		print(tse.get_attribute('value'))
 		times = times - 1
 		tse.send_keys(Keys.ARROW_DOWN)
 		if tse.get_attribute('value') == passenger.toStation:
@@ -59,10 +60,13 @@ def find(driver, passenger):
 	train_date.clear()
 	train_date.send_keys(passenger.train_date)
 	driver.find_element_by_id('query_ticket').click()
-
 	#if passenger.isSingle:
 
-
-
-
-
+#筛选并选择
+def select(driver, passenger):
+	tbody = driver.find_element_by_id('queryLeftTable')
+	rows = tbody.find_element_by_tag_name('tr')
+	print(rows.iterkeys())
+	#print(rows.size())
+	#for row in rows:
+		#print(row.find_element_by_class_name('train').text())

@@ -19,5 +19,7 @@ def main():
 	driver.find_element_by_id('selectYuding').click()
 	
 	find(driver, passenger)
+	
+	select(driver, passenger)
 
 main()

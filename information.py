@@ -1,8 +1,8 @@
 class Passenger():
 	def __init__(self):
 		"""设置用户名和密码"""
-		self.username = '用户名'
-		self.password = '密码'
+		self.username = '17702729698'
+		self.password = 'long9827'
 		
 		"""是否是单程"""
 		self.isSingle = True
@@ -12,5 +12,5 @@ class Passenger():
 		self.toStation = '北京'
 		
 		"""出发日与返程日"""
-		self.train_date = "2018-04-16"
+		self.train_date = "2018-08-16"
 		self.back = "2018-04-16"
