@@ -12,5 +12,5 @@ class Passenger():
 		self.toStation = '北京'
 		
 		"""出发日与返程日"""
-		self.train_date = "2018-08-16"
+		self.train_date = "2018-08-20"
 		self.back = "2018-04-16"

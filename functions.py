@@ -30,25 +30,24 @@ def find(driver, passenger):
 		
 	"""输入出发地"""
 	fse = driver.find_element_by_id('fromStationText')
-	js_set = 'document.getElementById("fromStationText").value="武汉"'
-	driver.execute_script(js_set)
-	times = 10
+	ActionChains(driver).double_click(fse).send_keys(passenger.fromStation).perform()
+	times = 20
 	while times>0:
 		print(fse.get_attribute('value'))
 		times = times - 1
-		fse.send_keys(Keys.ARROW_DOWN)
+		fse.send_keys(Keys.ARROW_DOWN)	#至少执行一次
 		if fse.get_attribute('value') == passenger.fromStation:
 			print('ok',times)
 			break;
 			
 	"""输入目的地"""
 	tse = driver.find_element_by_id('toStationText')
-	ActionChains(driver).click(tse).send_keys(passenger.toStation).perform()
-	times = 10
+	ActionChains(driver).double_click(tse).send_keys(passenger.toStation).perform()
+	times = 20
 	while times>0:
 		print(tse.get_attribute('value'))
 		times = times - 1
-		tse.send_keys(Keys.ARROW_DOWN)
+		tse.send_keys(Keys.ARROW_DOWN)	#至少执行一次
 		if tse.get_attribute('value') == passenger.toStation:
 			print('ok',times)
 			break;
@@ -65,8 +64,10 @@ def find(driver, passenger):
 #筛选并选择
 def select(driver, passenger):
 	tbody = driver.find_element_by_id('queryLeftTable')
-	rows = tbody.find_element_by_tag_name('tr')
-	print(rows.iterkeys())
+	#row = tbody.find_element_by_tag_name('tr')
+	#print(rows.iterkeys())
 	#print(rows.size())
 	#for row in rows:
 		#print(row.find_element_by_class_name('train').text())
+	test = tbody.find_element_by_xpath('//tr[1]/td[1]/div/div[2]/strong[1]')
+	print(test.get_attribute('innerHTML'))
