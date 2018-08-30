@@ -3,7 +3,9 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 from time import sleep
+from information import TrainInfo
 
 #登录
 def login(driver, passenger):
@@ -64,10 +66,45 @@ def find(driver, passenger):
 #筛选并选择
 def select(driver, passenger):
 	tbody = driver.find_element_by_id('queryLeftTable')
-	#row = tbody.find_element_by_tag_name('tr')
+	#rows = tbody.find_element_by_tag_name('tr')
 	#print(rows.iterkeys())
-	#print(rows.size())
+	#print(rows)
 	#for row in rows:
 		#print(row.find_element_by_class_name('train').text())
-	test = tbody.find_element_by_xpath('//tr[1]/td[1]/div/div[2]/strong[1]')
-	print(test.get_attribute('innerHTML'))
+	#test = tbody.find_element_by_xpath('//tr[1]/td[1]/div/div[4]/strong')
+	#print(test.get_attribute('innerHTML'))
+	#rows = tbody.find_element_by_tag_name('tr')
+	#print(rows)
+	trainsInfo = []
+	time = 5
+	while time > 0:
+		
+		for i in range(1, 1000, 2):
+			#s = '//tr[' + str(i) + ']/td[1]/div/div[3]/strong[1]'
+			#print(s)
+			#test = tbody.find_element_by_xpath(s)
+			#print(i,test.get_attribute('innerHTML'))
+			#rowCount = tbody.find_element_by_xpath("//tr").__sizeof__()
+			#print(rowCount)
+			
+			#print(row.find_element_by_xpath('//td[1]/div/div[3]/strong[1]').get_attribute('innerHTML'))
+			try:
+				trainsInfo.append(TrainInfo(tbody, i))
+				time = -1
+			except NoSuchElementException:
+				break
+
+	
+	for t in trainsInfo:
+		t.printInfo()
+	
+	#trainsInfo[0].ydbtn.click()
+		
+		
+		
+		
+		
+		
+		
+		
+		
