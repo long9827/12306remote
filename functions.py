@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
@@ -25,13 +26,16 @@ def login(driver, passenger):
 def find(driver, passenger):
 	if passenger.isSingle:
 		"""单程"""
-		driver.find_element_by_id('dc_label').click()
+		WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID,"dc_label"))).click()
+		#driver.find_element_by_id('dc_label').click()
 	else:
 		"""往返"""
-		driver.find_element_by_id('wf_label').click()
+		WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID,"wf_label"))).click()
+		#driver.find_element_by_id('wf_label').click()
 		
 	"""输入出发地"""
-	fse = driver.find_element_by_id('fromStationText')
+	fse = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID,"fromStationText")))
+	#driver.find_element_by_id('fromStationText')
 	ActionChains(driver).double_click(fse).send_keys(passenger.fromStation).perform()
 	times = 20
 	while times>0:
@@ -65,7 +69,7 @@ def find(driver, passenger):
 
 #筛选并选择
 def select(driver, passenger):
-	tbody = driver.find_element_by_id('queryLeftTable')
+	#tbody = driver.find_element_by_id('queryLeftTable')
 	#rows = tbody.find_element_by_tag_name('tr')
 	#print(rows.iterkeys())
 	#print(rows)
@@ -75,6 +79,7 @@ def select(driver, passenger):
 	#print(test.get_attribute('innerHTML'))
 	#rows = tbody.find_element_by_tag_name('tr')
 	#print(rows)
+	tbodyXpath = '/html/body/div[6]/div[7]/table/tbody'
 	trainsInfo = []
 	time = 5
 	while time > 0:
@@ -89,14 +94,40 @@ def select(driver, passenger):
 			
 			#print(row.find_element_by_xpath('//td[1]/div/div[3]/strong[1]').get_attribute('innerHTML'))
 			try:
-				trainsInfo.append(TrainInfo(tbody, i))
+				tmp = TrainInfo(driver, tbodyXpath, i)
+				if tmp.hasTicket:
+					trainsInfo.append(tmp)
 				time = -1
 			except NoSuchElementException:
 				break
+				
+	#for t in trainsInfo:
+		#t.printInfo()
 
+	#查找乘客所需车次是否有余票，若有多个返回第一个
+	checis = passenger.checis
+	train = None
+	for checi in checis:
+		for t in trainsInfo:
+			if checi == t.checi:
+				train = t
+				break
+		if train:
+			break
+	'''
+	if train:
+		#已查到
+		train.printInfo()
+	else:
+		print('未找到')
+	'''
+	return train
+			
 	
-	for t in trainsInfo:
-		t.printInfo()
+	
+	
+	#for t in trainsInfo:
+		#t.printInfo()
 	
 	#trainsInfo[0].ydbtn.click()
 		
