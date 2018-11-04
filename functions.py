@@ -5,8 +5,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-from time import sleep
+#from time import sleep
 from information import TrainInfo
+from code import getCode
+from code import clickCodes
+import time
 
 #登录
 def login(driver, passenger):
@@ -17,10 +20,31 @@ def login(driver, passenger):
 	password.clear()
 	password.send_keys(passenger.password)
 
-	print('正在输入验证码...')
+	print('正在识别验证码...')
+	times = 10
+	loginBtn = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID,"loginSub")))
+	while loginBtn!=None and times>0:
+		times = times - 1
+		time.sleep(2)
+		indexs = getCode(driver)
+		clickCodes(indexs, driver)
+		loginBtn.click()
+		time.sleep(2)
+		try:
+			loginBtn = WebDriverWait(driver, 2).until(EC.presence_of_element_located((By.ID,"loginSub")))
+			#还能获取登陆按钮，验证码识别出错
+		except:
+			return
+			
+	
 	#手动输入
-	WebDriverWait(driver, 100).until(EC.title_is('我的12306 | 客运服务 | 铁路客户服务中心'))
-	print('登陆成功')
+	print("请手动输入验证码：")
+	while loginBtn!=None:
+		try:
+			loginBtn = WebDriverWait(driver, 2).until(EC.presence_of_element_located((By.ID,"loginSub")))
+		except:
+			return
+
 
 #查询
 def find(driver, passenger):

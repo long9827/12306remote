@@ -18,3 +18,553 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1540693071650	geckodriver	INFO	geckodriver 0.20.0
+1540693071677	geckodriver	INFO	Listening on 127.0.0.1:51716
+1540693074752	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.Dz8U9OFSd6Md"
+1540693093387	geckodriver	INFO	geckodriver 0.20.0
+1540693093403	geckodriver	INFO	Listening on 127.0.0.1:51777
+1540693096424	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.NrXeqrrIS3WU"
+1540693097017	Marionette	DEBUG	Received observer notification profile-after-change
+1540693097098	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693097139	Marionette	DEBUG	Received observer notification command-line-startup
+1540693097139	Marionette	DEBUG	Received observer notification nsPref:changed
+1540693097139	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540693097281	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693098114	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540693098115	Marionette	DEBUG	Waiting for delayed startup...
+1540693098222	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540693098222	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540693098223	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540693098223	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540693098223	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540693098262	Marionette	INFO	Listening on port 51789
+1540693098262	Marionette	DEBUG	Remote service is active
+1540693098500	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51795
+1540693098501	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540693098502	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540693120473	Marionette	DEBUG	Closed connection 0
+[Parent 9204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 6624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 661540693120633	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540693120633	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540693120633	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540693120633	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540693120634	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540693120634	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540693120634	Marionette	INFO	Stopped listening on port 51789
+1540693120634	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8132
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540693120906	geckodriver::marionette	ERROR	Failed to stop browser process
+1540693125672	geckodriver	INFO	geckodriver 0.20.0
+1540693125689	geckodriver	INFO	Listening on 127.0.0.1:51850
+1540693128706	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.WCs1FA4Q9Viz"
+1540693129228	Marionette	DEBUG	Received observer notification profile-after-change
+1540693129311	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693129354	Marionette	DEBUG	Received observer notification command-line-startup
+1540693129354	Marionette	DEBUG	Received observer notification nsPref:changed
+1540693129354	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540693129501	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693130327	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540693130327	Marionette	DEBUG	Waiting for delayed startup...
+1540693130487	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540693130488	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540693130488	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540693130489	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540693130489	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540693130529	Marionette	INFO	Listening on port 51862
+1540693130529	Marionette	DEBUG	Remote service is active
+1540693130717	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51869
+1540693130718	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540693130719	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540693191830	Marionette	DEBUG	Closed connection 0
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThread] WARNING: pipe[Child 10488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromi1540693194527	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540693194528	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540693194528	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540693194528	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540693194528	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540693194528	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540693194529	Marionette	INFO	Stopped listening on port 51862
+1540693194529	Marionette	DEBUG	Remote service is inactive
+[GPU 16288
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540693268191	geckodriver	INFO	geckodriver 0.20.0
+1540693268229	geckodriver	INFO	Listening on 127.0.0.1:52318
+1540693271324	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.PnlhptPXz3Uk"
+1540693274105	Marionette	DEBUG	Received observer notification profile-after-change
+1540693274238	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693274323	Marionette	DEBUG	Received observer notification command-line-startup
+1540693274323	Marionette	DEBUG	Received observer notification nsPref:changed
+1540693274323	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540693274495	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693275936	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540693275937	Marionette	DEBUG	Waiting for delayed startup...
+1540693276101	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540693276101	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540693276102	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540693276103	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540693276103	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540693276173	Marionette	INFO	Listening on port 52327
+1540693276173	Marionette	DEBUG	Remote service is active
+1540693276550	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52347
+1540693276551	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540693276551	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540693663865	geckodriver	INFO	geckodriver 0.20.0
+1540693663882	geckodriver	INFO	Listening on 127.0.0.1:52741
+1540693666925	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.wBvJfm5uR4yR"
+1540693667471	Marionette	DEBUG	Received observer notification profile-after-change
+1540693667561	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693667596	Marionette	DEBUG	Received observer notification command-line-startup
+1540693667597	Marionette	DEBUG	Received observer notification nsPref:changed
+1540693667597	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540693667746	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693668672	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540693668672	Marionette	DEBUG	Waiting for delayed startup...
+1540693668766	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540693668766	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540693668767	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540693668768	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540693668768	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540693668814	Marionette	INFO	Listening on port 52749
+1540693668814	Marionette	DEBUG	Remote service is active
+1540693668937	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52753
+1540693668939	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540693668939	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540693716417	Marionette	DEBUG	Closed connection 0
+[Parent 9220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8680, Chrome_Ch[Child 12228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540694101582	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540694101582	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540694101582	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540694101582	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540694101582	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540694101583	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540694101583	Marionette	INFO	Stopped listening on port 52749
+1540694101583	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ded pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540694019267	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540694019311	Marionette	INFO	Listening on port 52879
+1540694019311	Marionette	DEBUG	Remote service is active
+1540694019496	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52883
+1540694019497	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540694019498	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540694233647	geckodriver	INFO	geckodriver 0.20.0
+1540694233663	geckodriver	INFO	Listening on 127.0.0.1:53023
+1540694414655	geckodriver	INFO	geckodriver 0.20.0
+1540694414673	geckodriver	INFO	Listening on 127.0.0.1:53242
+1540694417688	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.HvEig6UOoSm4"
+1540694418488	Marionette	DEBUG	Received observer notification profile-after-change
+1540694418584	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540694418661	Marionette	DEBUG	Received observer notification command-line-startup
+1540694418661	Marionette	DEBUG	Received observer notification nsPref:changed
+1540694418661	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540694418837	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540694420013	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540694420013	Marionette	DEBUG	Waiting for delayed startup...
+1540694420158	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540694420158	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540694420159	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540694420159	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540694420159	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540694420207	Marionette	INFO	Listening on port 53251
+1540694420208	Marionette	DEBUG	Remote service is active
+1540694420875	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:53269
+1540694420876	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540694420877	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540694432759	Marionette	DEBUG	Closed connection 0
+[Parent 7920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540694432919	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540694432919	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540694432919	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540694432919	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540694432920	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540694432920	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540694432920	Marionette	INFO	Stopped listening on port 53251
+1540694432920	Marionette	DEBUG	Remote service is inactive
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8424, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540694433245	geckodriver::marionette	ERROR	Failed to stop browser process
+1540694967124	geckodriver	INFO	geckodriver 0.20.0
+1540694967146	geckodriver	INFO	Listening on 127.0.0.1:49798
+1540694970184	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.U5gwKoGk9RZZ"
+1540694976971	Marionette	DEBUG	Received observer notification profile-after-change
+1540694977160	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540694977260	Marionette	DEBUG	Received observer notification command-line-startup
+1540694977261	Marionette	DEBUG	Received observer notification nsPref:changed
+1540694977261	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540694977594	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540694979238	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540694979238	Marionette	DEBUG	Waiting for delayed startup...
+1540694979340	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540694979340	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540694979341	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540694979342	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540694979342	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540694979393	Marionette	INFO	Listening on port 49816
+1540694979393	Marionette	DEBUG	Remote service is active
+1540694979725	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49853
+1540694979726	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540694979727	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540695239171	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.OYSugVE2ruEg"
+1540695241137	Marionette	INFO	Listening on port 50186
+1540695241354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540695241441	Marionette	INFO	Stopped listening on port 50186
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13840, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13840, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 14596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14596,JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540695258775	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.lxsAuGuGFfKv"
+1540695260573	Marionette	INFO	Listening on port 50226
+1540695260912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540695260977	Marionette	INFO	Stopped listening on port 50226
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 2272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Chuiilldd /2s4r8c8/,i pCch/rome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[Parent 2272, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540695453907	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.Xpuc2icCEZYz"
+1540695456152	Marionette	INFO	Listening on port 50501
+1540695456189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540695456272	Marionette	INFO	Stopped listening on port 50501
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Child 14156, Chrome_ChildThread] WARNING: pipe err[Parent 10768, Gecko_oIOThread] WARNIrNG: pipe error: 109:: file z:/build/build/src/ipc/chr o1m0i9um/s:rc/c file z:/hrombe/ucild/buommion/lidp/scr_channel_winc./cicp, lc/cihrnomium/es 346
+rc/chrome/common/ipc_channel_win.cc, line 346
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 11392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11392, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 10768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11444, Chrome_Ch[Parent 10768, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 329: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 329: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 466: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 137JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540695494924	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.7ycZGwCimDk6"
+1540695496642	Marionette	INFO	Listening on port 50537
+1540695497041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540695497115	Marionette	INFO	Stopped listening on port 50537
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 3032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540695514232	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.Nk2tZvHN7Ifb"
+1540695515957	Marionette	INFO	Listening on port 50562
+1540695516348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540695517218	Marionette	INFO	Stopped listening on port 50562
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Child 13516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 13692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13692, Chrome_[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 15296, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540695530071	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.mpIJABbeTNjO"
+1540695531799	Marionette	INFO	Listening on port 50600
+1540695532193	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+[Parent 2260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 2260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540695540788	Marionette	INFO	Stopped listening on port 50600
+[GPU 4760, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540695548384	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.C75UPa7bZTBY"
+1540695550156	Marionette	INFO	Listening on port 50641
+1540695550501	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 14940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540695587372	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.8T1CRjYhfncl"
+1540695589194	Marionette	INFO	Listening on port 50694
+1540695589490	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 1272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5436, Chrome_ChildThread[Child 14248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu1540695800308	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.UfKSYNustP8e"
+1540695802274	Marionette	INFO	Listening on port 50812
+1540695802429	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 4712, Gecko_IOThread] 1540695926536	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.2nsskG39caMi"
+1540695928290	Marionette	INFO	Listening on port 50886
+1540695928651	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 14124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540696000498	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.cv9B3LNHsGAa"
+1540696002277	Marionette	INFO	Listening on port 50968
+1540696002620	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 14976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12604, Chrome_ChildThread] [Parent 14976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 14976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1540696034295	Marionette	INFO	Stopped listening on port 50968
+[GPU 12368
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540696104700	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.OCqoOfpYiyXy"
+1540696106481	Marionette	INFO	Listening on port 51133
+1540696106814	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 7212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 55: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001728320B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 77: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001728320D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 55: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000017283B0B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 77: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000017283B0D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 55: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000017283B1A000)::ForceLoseContext
+[Parent 7212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7212, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 7212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540699773152	Marionette	INFO	Stopped listening on port 51133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14836
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540800102215	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.ronfdTbjuWjs"
+1540800104730	Marionette	INFO	Listening on port 52633
+1540800105092	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 8796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540800130470	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.q9z5FySApjNz"
+1540800132345	Marionette	INFO	Listening on port 52713
+1540800132588	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4200, Chrome_[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540801399228	Marionette	INFO	Stopped listening on port 52713
+[GPU 1634
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 5 extraneous bytes before marker 0x04
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 13980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 13980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920, Chrome_Chil[ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540801399354	Marionette	INFO	Stopped listening on port 52933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540801399374	Marionette	INFO	Stopped listening on port 53355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540801729992	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.6aWHI9WdWbvs"
+1540801731794	Marionette	INFO	Listening on port 55614
+1540801732110	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016347614000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016347618000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000163498A0800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000163498A3800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634CCA9000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634CCAA800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634EA92000)::ForceLoseContext
+[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634760E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016347610000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000163498A0000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000163498A2000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634CCA9000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634CCAA800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351930000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351932800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001635193E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351941000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F285800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F287000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F294000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F295800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351908000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351909800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351916800)::ForceLoseContext
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351918000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F20B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016347613000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F216800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000163498A8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F220000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634CCAC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351BAD800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351934800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351BB7800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F27D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351BC1800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F28A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F0D6000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F0D8000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F0E4800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F0E6000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001635190E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001635190F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351BCA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634761C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351D2D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000163498AD800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351D37000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F288000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351D41000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351937800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351EAA800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351941800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351EB4000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F28D000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016351EBE000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F0DA800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016355008000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 61: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001634F0E9000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 85: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000016355011800)::ForceLoseContext
+[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9300, Chrome_ChildThread] WARNING: p[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5308, Chrome_ChildThread] WARNING: pipe error: 109: file 1540816174636	Marionette	INFO	Stopped listening on port 55614
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

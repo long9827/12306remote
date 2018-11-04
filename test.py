@@ -1,30 +1,39 @@
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+import time
 
 
 from information import Passenger
+from information import TrainInfo
 from functions import *
+from code import getCode
+from code import clickCodes
 
 
 def main():
 	driver = webdriver.Firefox()
-	driver.get('file:///E:/code/Repos/12306/%E8%BD%A6%E7%A5%A8%E9%A2%84%E8%AE%A2%20%20%20%E5%AE%A2%E8%BF%90%E6%9C%8D%E5%8A%A1%20%20%20%E9%93%81%E8%B7%AF%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83.html')
+	driver.get('https://kyfw.12306.cn/otn/login/init')
 	
-	passenger = Passenger()
+	time.sleep(1)
 	
-	#login(driver, passenger)
+	loginBtn = WebDriverWait(driver, 2).until(EC.presence_of_element_located((By.ID,"loginSub")))
+	print('1: ', login==None)
 	
-	#跳转到车票预定界面
-	#driver.find_element_by_id('selectYuding').click()
+	driver.get('https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc')
+	print('start\n')
+	loginBtn = WebDriverWait(driver, 2).until(EC.presence_of_element_located((By.ID,"loginSub")))
+	print('1: ', login==None)
 	
-	#find(driver, passenger)
-	
-	select(driver, passenger).printInfo()
+	#print(getCode(driver))
 	'''
-	xpath = '/html/body/div[6]/div[7]/table/tbody/tr[1]/td[2]'
-	ele = driver.find_element_by_xpath(xpath)
-	print(ele.get_attribute('innerHTML'))
+	codeImage = driver.find_element_by_xpath('/html/body/div[6]/div/form/div/ul[2]/li[4]/div/div/div[3]/img')
+	actions = ActionChains(driver)
+	actions.move_to_element_with_offset(codeImage, 38, 74).click().perform()
 	'''
-
+	#indexs = getCode(driver)
+	#clickCodes(indexs, driver)
+	print(driver.title != '登录 | 客运服务 | 铁路客户服务中心')
+	
 main()

@@ -5362,3 +5362,1091 @@ Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
 [GPU 11724, C
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1540693146363	geckodriver	INFO	geckodriver 0.20.0
+1540693146387	geckodriver	INFO	Listening on 127.0.0.1:51908
+1540693149410	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.NzwkDdSJbuGw"
+1540693149967	Marionette	DEBUG	Received observer notification profile-after-change
+1540693150048	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693150106	Marionette	DEBUG	Received observer notification command-line-startup
+1540693150106	Marionette	DEBUG	Received observer notification nsPref:changed
+1540693150106	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540693150318	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540693151233	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540693151233	Marionette	DEBUG	Waiting for delayed startup...
+1540693151325	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540693151325	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540693151326	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540693151326	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540693151326	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540693151366	Marionette	INFO	Listening on port 51920
+1540693151366	Marionette	DEBUG	Remote service is active
+1540693151429	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51924
+1540693151441	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540693151441	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1540693190733	Marionette	DEBUG	Closed connection 0
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9176, 1540693193018	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540693193018	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540693193018	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540693193018	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540693193019	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540693193019	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540693193019	Marionette	INFO	Stopped listening on port 51920
+1540693193019	Marionette	DEBUG	Remote service is inactive
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 618
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540801399718	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.xkB2IeBXOLkh"
+1540801401560	Marionette	INFO	Listening on port 54821
+1540801401876	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Parent 3108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 3108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5464, Chrome_ChildThread] WARNING: pipe error: 109: file z:1540801437843	Marionette	INFO	Stopped listening on port 54821
+[GPU 7812
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540801442363	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.WzutvZX8nm55"
+1540801444079	Marionette	INFO	Listening on port 54916
+1540801444485	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Parent 4536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc1540801489500	Marionette	INFO	Listening on port 55026
+1540801489601	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Parent 10576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE511800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE519800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D07A1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D07A3800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D3BCD000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D3BCE800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4F9E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CC482800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE50E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D07A0800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D07A2800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D3BCC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D3BCE000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FC2800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FC5000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FD1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FD3800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A5E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A5F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A6C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A6E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE874000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE875800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE882800)::ForceLoseContext
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE884000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8AAC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE511000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8AB7800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D07A6800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8AC0800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D3BD0000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8BB0800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FC7000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8BBA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FD5800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8BC4000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A62800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D60D1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D60D3000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D60E0000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE878800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A71800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE886000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8BCC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE51B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8D32000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D07AF000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8D3B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FBB800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8D45800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FCA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8EB6800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D4FD8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8EBF800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8A65800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D8ECA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D60D5000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D90E2000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1CE87B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E1D90EB800)::ForceLoseContext
+[Parent 10576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4692, Chrome_ChildThread] WARNING[Child 14152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C1540816174636	Marionette	INFO	Stopped listening on port 55026
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng the least recently used one.
+WebGL(000001E4DAE98000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E4D6CD6000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E4E0009000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E4D0889000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E4E0012800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 93: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E4D0896800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001E4E001C800)::ForceLoseContext
+[Parent 10868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1916, Chrome[Child 332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 10868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540816174690	Marionette	INFO	Stopped listening on port 55273
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+the least recently used oneJavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 77: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001F6A56A6000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 82: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used oneJavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 77: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001F6A59DF000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13420, Gecko_IOThread] WARNING: pipe error: [Parent 14704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540816174636	Marionette	INFO	Stopped listening on port15408161
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+SendAndWait] Error: Channel error: cannot send/recv
+
+build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10024, Chrome_ChildThread] WARNIN[Parent 7296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540816174656	Marionette	INFO	Stopped listening on port 56074
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540884391835	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.R3KMtHEOHV7L"
+1540884395709	Marionette	INFO	Listening on port 62527
+1540884395745	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1540884467467	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.ZtxdYqlpsiqs"
+1540884469334	Marionette	INFO	Listening on port 62584
+1540884469586	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 21316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8048, Chrome_ChildThread] WA[Parent 21316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540885912419	Marionette	INFO	Stopped listening on port 62584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Parent 336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21540885912476	Marionette	INFO	Stopped listening on port 62975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 125
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 2492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540885912409	Marionette	INFO	Stopped listening on port 63115
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+, line 346
+[Child 12824, 1540885592098	Marionette	INFO	Stopped listening on port 63225
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11536,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540885872636	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.R4sL457bJmVZ"
+1540885874497	Marionette	INFO	Listening on port 63378
+1540885874755	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 19568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540885913693	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.AS1Z9kfCfokm"
+1540885915590	Marionette	INFO	Listening on port 63439
+1540885915815	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 18480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr1540886098715	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.0Y84jvCPZMVz"
+1540886100590	Marionette	INFO	Listening on port 63541
+1540886100841	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20776, Chrome_ChildThread] WARNING: pipe error:[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19376, Chrome_ChildThread] WARNINwin.cc, lin15408871540887359848	Marionette	INFO	Stopped listening on port 63630
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ error: cannot send/recv
+
+ium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15668, 1540886444416	Marionette	INFO	Stopped listening on port 63794
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7284, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540886460581	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.Gg9YqGM9Cjmz"
+1540886462409	Marionette	INFO	Listening on port 63833
+1540886462707	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+[Parent 15420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540887359849	Marionette	INFO	Stopped listening on port 63833
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ata: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540887359873	Marionette	INFO	Stopped listening on port 63883
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+est@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1351:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1505:14
+done/</</<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/views/text-editor.js:50:13
+do@resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/undo.js:72:11
+endBatch@resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/undo.js:83:5
+do@resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/undo.js:96:5
+done/</<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/views/text-editor.js:49:11
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11
+
+[Parent 6136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19592, Chrome_Chil1540887359871	Marionette	INFO	Stopped listening on port 64029
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540887359771	Marionette	INFO	Stopped listening on port 64250
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8072, Chrome_ChildThread] WARNING: pipe
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1540887359918	Marionette	INFO	Stopped listening on port 64314
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540887788101	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.rntOALd46jvv"
+1540887789911	Marionette	INFO	Listening on port 64577
+1540887790219	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 15084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Parent 15084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540887830071	Marionette	INFO	Stopped listening on port 64577
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7092, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540887837862	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.8KtLidOCPGvf"
+1540887839704	Marionette	INFO	Listening on port 64624
+1540887839984	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/[Parent 9104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540887877445	Marionette	INFO	Stopped listening on port 64624
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8880, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540887882771	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.nxd07Ny0xbZs"
+1540887884553	Marionette	INFO	Listening on port 64706
+1540887884891	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 8424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 8424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common[Parent 8424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540887942312	Marionette	INFO	Stopped listening on port 64706
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540887946973	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.hSX4ZpR0PSBC"
+1540887948808	Marionette	INFO	Listening on port 64790
+1540887949094	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 20656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540888037804	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.pclX8lQoW0VO"
+1540888039809	Marionette	INFO	Listening on port 64861
+1540888039996	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 1640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB4868800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB4869800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C1B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C20000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C99000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C9A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB70AF800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB70B1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB92BA000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB92BB000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBC5DD800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBDA6D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBEE1E000)::ForceLoseContext
+[Parent 1640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB4869000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB486A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C1B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C20000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C99000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C9A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB70AB000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB70AD800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB92BA800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBC5C4800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBDA6C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBDA6E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBEE1E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBEE1F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5C8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5C9800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5D7000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5D8000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF27E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB486C000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF288800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C7D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5D4000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB7094800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A0B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB70B1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A15000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBC5D4800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A1F000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBDA70800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBFE62000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5BD000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBFE71000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5CB800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBFE7A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF271800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4B4F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB486F000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4B59800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB6C91000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4B66000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB7099800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB7392800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB739C800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB92A9800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB92AD000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A16000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBDA79800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F09000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5C0000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F13800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF5CE800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F1D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF274000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F25000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF280000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC76C1000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBF289800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB738F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB7390000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB7397800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB739A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A04800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBC5D5000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC76CF800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBFE5B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7A56000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBFE65800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7A60800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBFE72000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7A6A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A1B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7A71000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4B52000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7C0A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4B5B000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7C13800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB7394000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC7C1D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFB739F000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC8051800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFBC5D8000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC805A800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4A20000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC8065000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F0A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC8284000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F14800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC828E000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC4F1E800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC8296800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 70: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC76B9000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001FFC829D800)::ForceLoseContext
+[Parent 1640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540911526018	Marionette	INFO	Stopped listening on port 64861
+[GPU 1880, Chrome_ChildThread] WARNING: pipe
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xt
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 65: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000209D55C6000)::ForceLoseContext
+JavaScript warning: https://kyfwJavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F84D61800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F84D62800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F85371000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F85372000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F85381000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F85384800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F856B6800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F856B8800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000018F856CA800)::ForceLoseContext
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 15156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel[Parent 15156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1540911526036	Marionette	INFO	Stopped listening on port 65526
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41081540911526008	Marionette	INFO	Stopped listening on port 65239
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tJS, line 60: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000001CF39B7B000)::ForceLoseContext
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 215[Parent 808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16668, Chrome[Parent 808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i1540911526015	Marionette	INFO	Stopped listening on port 49236
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ve WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020373F4D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020376E06800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020375237800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020379F1A000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020375249800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(00000203787BC800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020375A6F800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020378739800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020373F6D800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020378744000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020373F63000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(000002037872C000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020375A9B800)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020378CD0000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 78: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020373F78000)::ForceLoseContext
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 54: Error: WebGL warning: <SetDimensions>: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0000020378CC1000)::ForceLoseContext
+[Parent 5348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 201540911526013	Marionette	INFO	Stopped listening on port 49429
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541173788660	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.yMnrXulfItld"
+1541173792937	Marionette	INFO	Listening on port 63797
+1541173793308	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Child 4052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[oCnhild 13824, Chrome_ChildThread] /WiApRcN_Ichannel_win.cc, line 346N
+G: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 9684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12152, Chrome_C1541173865138	Marionette	INFO	Stopped listening on port 63797
+[GPU 3
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+772, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541334364378	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.TyBsEOcoqgKG"
+1541334368393	Marionette	INFO	Listening on port 57852
+1541334368812	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 3 extraneous bytes before marker 0x22
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14971541334982762	Marionette	INFO	Stopped listening on port 57852
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11872, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541335157942	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.eitnF0DSZWfT"
+1541335159730	Marionette	INFO	Listening on port 58635
+1541335160064	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 8352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 84[Parent 8352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] 1541336548061	Marionette	INFO	Stopped listening on port 58709
+[GPU 12556, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14064, Chro[Parent 8596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541336547939	Marionette	INFO	Stopped listening on port 58810
+[GPU 14884, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Child 17148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17148, Chrom[Ch[Parent 16616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541336548054	Marionette	INFO	Stopped listening on port 59023
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+46
+[Child 224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1541336547924	Marionette	INFO	Stopped listening on port 58979
+[GPU 11232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541336556683	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.8Us7cSIUaz1O"
+1541336558438	Marionette	INFO	Listening on port 59243
+1541336558805	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 8576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 3 extraneous bytes before marker 0x2b
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+[Parent 8576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Child 11904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 8576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541337016563	Marionette	INFO	Stopped listening on port 59243
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16944
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541337040571	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.OIWSvzAmrnsu"
+1541337042392	Marionette	INFO	Listening on port 59608
+1541337042702	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 16420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 16420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "Error while calling actor 'highlighter's method 'showBoxModel'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js:728:5\n_haveWindowDimensionsChanged@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:217:31\nupdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:230:31\n_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:276:5\nshow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:110:5\nshowBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Child 12076, Chrome_ChildThread] WARNING: pipe err/oirp:c /1c0h9r:omium/src/chrome/common/ipc_channel_win.cc, line 346 file z:/build/build/src/ipc/
+chromium/src[/chrome/common/ipc_channel_win.cc, line 346
+[Child 12076, [Child 6068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6068, C1541339380000	Marionette	INFO	Stopped listening on port 59608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15408, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ofile.N1GmCx1NYUzV"
+1541339198450	Marionette	INFO	Listening on port 63657
+1541339198594	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 2028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15428, [Chrome_ChildThreaChild 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1541339379728	Marionette	INFO	Stopped listening on port 63657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8380, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+RNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1541339377347	Marionette	INFO	Stopped listening on port 63805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541339464410	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.cc4mXeOhNTme"
+1541339467082	Marionette	INFO	Listening on port 64287
+1541339467143	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+[Child 7896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Child 7896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bld 16284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16284, Ch[Parent 5412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14648, Chrome_ChildTh1541339592898	Marionette	INFO	Stopped listening on port 64287
+[GPU 16612, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16060, C[Parent 3056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541339592177	Marionette	INFO	Stopped listening on port 64449
+[GPU 1614
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541339597219	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.IKufjpDDMLsp"
+1541339599906	Marionette	INFO	Listening on port 64633
+1541339599945	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+[Parent 3004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 3004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 3004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13841541339989442	Marionette	INFO	Stopped listening on port 64633
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C1541339864545	Marionette	INFO	Stopped listening on port 65094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9964, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541340087194	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.BQ4Nze5HDv5H"
+1541340090636	Marionette	INFO	Listening on port 49364
+1541340091016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Parent 7060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32, Chrome_ChildThread] WARNING:[Parent 7060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13060, 1541340614668	Marionette	INFO	Stopped listening on port 49364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1681
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541340672131	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\36010\\AppData\\Local\\Temp\\rust_mozprofile.tsiiPmRBV1pz"
+1541340675111	Marionette	INFO	Listening on port 49808
+1541340675350	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5620, Chrome_ChildThread] WA[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17396, Chr1541340842087	Marionette	INFO	Stopped listening on port 49808
+[GPU 1380, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

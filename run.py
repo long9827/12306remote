@@ -18,7 +18,8 @@ def main():
 	login(driver, passenger)
 	
 	#跳转到车票预定界面
-	WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID,"selectYuding"))).click()
+	driver.get('https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc')
+	#WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID,"selectYuding"))).click()
 	
 	find(driver, passenger)
 	
@@ -31,7 +32,11 @@ def main():
 		train.ydbtn.click()
 		WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.ID,"normalPassenger_0"))).click()
 		driver.find_element_by_id('submitOrder_id').click()
-		
+		print('确定')
+		confirm = WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.ID,"qr_submit_id")))
+		time.sleep(3)
+		confirm.click()
+		print('已确定')
 		
 	else:
 		print('未找到合适的票')
