@@ -43,8 +43,8 @@ def identifyCode(filePath):
 	
 	image = Image.open(filePath)
 	
-	image.crop((117, 0, 212, 30)).save('sub/key.jpg', 'jpeg')
-	key = get_file_content('sub/key.jpg')
+	image.crop((117, 0, 212, 30)).save('CrawlResult/sub/key.jpg', 'jpeg')
+	key = get_file_content('CrawlResult/sub/key.jpg')
 	words_result = keyclient.basicAccurate(key)['words_result']
 	keyword = []
 	for word_result in words_result:
@@ -54,9 +54,9 @@ def identifyCode(filePath):
 	for y in range(0, 2):
 		for x in range(0, 4):
 			tmpResult = []
-			get_sub_img(image, x, y).save('sub/'+str(x)+str(y)+'.jpg', 'jpeg')
+			get_sub_img(image, x, y).save('CrawlResult/sub/'+str(x)+str(y)+'.jpg', 'jpeg')
 			#print('调用通用物体识别: ', client.advancedGeneral(get_file_content('sub/'+str(x)+str(y)+'.jpg')), '\n')
-			tmp = client.advancedGeneral(get_file_content('sub/'+str(x)+str(y)+'.jpg'))['result']
+			tmp = client.advancedGeneral(get_file_content('CrawlResult/sub/'+str(x)+str(y)+'.jpg'))['result']
 			for item in tmp:
 				#print(item['keyword'])
 				tmpResult.append(item['keyword'])
